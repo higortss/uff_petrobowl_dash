@@ -2,20 +2,13 @@
 	<head>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<style>
-		.pp_logo{
+		.pp_logo {
 			display: block;
 			margin-left: auto;
 			margin-right: auto;
 			width: 35%;
 		}
-		
-		.col1{
-			background: #5C7080;
-		}
-		
-		.col2{
-			background: #6BC0FF;
-		}
+
 	</style>
 	<script type="text/javascript" src="javascript_petrobowl.js"></script>
 		
