@@ -18,7 +18,7 @@
 		<body>
 			<div class="container text-center">
 				<div class="col-md-4 px-0">
-					<img src="C:/Users/mcantuaria/Desktop/petrobowl_app/pp_logo.jpg" class="pp_logo">
+					<img src="/uff_petrobowl_dash/pp_logo.jpg" class="pp_logo">
 				</div>
 			</div>
 			
