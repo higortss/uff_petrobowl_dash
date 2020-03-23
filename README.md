@@ -17,7 +17,7 @@
 			background: #6BC0FF;
 		}
 	</style>
-	<script type="text/javascript" src="C:/Users/mcantuaria/Desktop/petrobowl_app/javascript_petrobowl.js"></script>
+	<script type="text/javascript" src="javascript_petrobowl.js"></script>
 		
 		<title> Petrobowl Quizzify </title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
