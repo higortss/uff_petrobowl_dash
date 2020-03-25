@@ -1,17 +1,17 @@
 <html>
 	<head>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-	<style>
-		.pp_logo
-		{
-			display: block;
-			margin-left: auto;
-			margin-right: auto;
-			width: 35%;
-		}
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+		<style>
+			.pp_logo
+			{
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				width: 35%;
+			}
 
-	</style>
-	<script type="text/javascript" src="/uff_petrobowl_dash/javascript_petrobowl.js"></script>
+		</style>
+		<script type="text/javascript" src="/uff_petrobowl_dash/javascript_petrobowl.js"></script>
 		
 		<title> Petrobowl Quizzify </title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
