@@ -2,7 +2,8 @@
 	<head>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<style>
-		.pp_logo {
+		.pp_logo
+		{
 			display: block;
 			margin-left: auto;
 			margin-right: auto;
@@ -24,7 +25,7 @@
 			
 			<div class="container-xl p-3 my-3 bg-dark text-white text-center">
 				<p id="counter_8"><h1> UFF Team Quiziffy </h1></p>
-				<h4> Game Management App Test </h4>
+				<h4> Game Management App </h4>
 			</div>
 			
 			<pre>
